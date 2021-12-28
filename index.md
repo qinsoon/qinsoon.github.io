@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 limit: 10
 show_excerpts: true
-entries_layout: list
+entries_layout: grid
 ---
 
 I am a software engineer focusing on building robust and high-performance software. I am currently working on [MMTk](https://mmtk.io), a memory management/garbage collection framework for language implementations. I am the lead developer for [mmtk-core](https://github.com/mmtk/mmtk-core).
