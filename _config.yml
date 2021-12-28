@@ -27,8 +27,10 @@ url: "qinsoon.github.io" # the base hostname & protocol for your site, e.g. http
 github_username:  qinsoon
 linkedin_username: qinsoon
 
+skin: "/assets/css/skins/default.css"
+
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
