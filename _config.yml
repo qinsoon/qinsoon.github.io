@@ -37,6 +37,8 @@ plugins:
 
 github:
   - is_project_page: false
+read_time: true
+words_per_minute: 200
 
 # Exclude from processing.
 # The following items will not be processed, by default.
