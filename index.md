@@ -5,10 +5,10 @@ show_excerpts: true
 entries_layout: grid
 ---
 
-I am a software engineer focusing on building robust and high-performance software. I am currently working on [MMTk](https://mmtk.io) (Memory Management ToolKit), a memory management/garbage collection framework for language implementations. I am the lead developer for [mmtk-core](https://github.com/mmtk/mmtk-core).
+I am a software engineer focusing on building robust and high-performance software. I am currently working on [MMTk](https://mmtk.io) (Memory Management ToolKit), a memory management/garbage collection framework for language implementations. I am the lead developer of [mmtk-core](https://github.com/mmtk/mmtk-core). I am also a [Julia](https://github.com/JuliaLang/julia) committer. In collaboration with JuliaHub and RelationalAI, I have contributed to bringing MMTk-based generational and concurrent garbage collectors to Julia. I contributed key technical insights and helped prototype support for copying garbage collectors in Julia.
 
-My past experience includes 6 years+ research in the area of language virtual machines and performance analysis, and 2 years experience of backend development. I got a PhD degree from Australian National University ([an efficient implementation of a micro virtual machine](./assets/yilin_phd_thesis.pdf)).  I am one of the core members in the research project [micro virtual machines](https://microvm.org) and I wrote most of the code for [Zebu VM](https://gitlab.anu.edu.au/mu/mu-impl-fast/).
+My past experience includes over 10 years of research and development in language virtual machines, garbage collection, and performance analysis, and 2 years of backend development experience. I received a PhD from the Australian National University ([An Efficient Implementation of a Micro Virtual Machine](./assets/yilin_phd_thesis.pdf)). I was one of the core members of the [micro virtual machines](https://microvm.org) research project and wrote most of the code for [Zebu VM](https://gitlab.anu.edu.au/mu/mu-impl-fast/).
 
-Generally, I enjoy programming and creating things. They converge as programming is creative, and "produces objects of beauty". My favorite quote is, "a programmer who subconsciously views himself as an artist will enjoy what he does and will do it better" (Donald Knuth).
+Generally, I enjoy programming and creating things. They converge, as programming is creative and "produces objects of beauty". My favorite quote is, "a programmer who subconsciously views himself as an artist will enjoy what he does and will do it better" (Donald Knuth).
 
-Besides programming, I like video games and board games, as I find them fun and intellectually competitive. I enjoy playing violin as well, which seems already to be one of my life-long hobbies.
+Besides programming, I like video games and board games, as I find them fun and intellectually competitive. I enjoy playing the violin as well, which already seems to be one of my lifelong hobbies.
